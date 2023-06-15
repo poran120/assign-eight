@@ -1,0 +1,9 @@
+.cart_component{
+    padding: 40px 40px;
+    position: sticky;
+    top: 0;
+}
+.selected_item{
+    color: black;
+    font-size: 15px;
+}
